@@ -19,3 +19,7 @@ deploy:
     tags: true
     branch: tag
     repo: pipizhu712/Travis_CI_Tutorial
+
+notifications:
+ email:
+   - 1251957442@qq.com
